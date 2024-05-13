@@ -1,2 +1,3 @@
 # What is this?
-A barebone starter template to start a project.
+
+A barebone HTML starter template to start a project.
