@@ -11,7 +11,7 @@
 
 	<div class="container">
 		
-	</div>
+	</div><!-- .container -->
 
 <script src="src/script.js"></script>
 </body>
