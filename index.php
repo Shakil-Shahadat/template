@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title></title>
-	<link rel="icon" href="src/favicon.ico">
+	<link rel="icon" href="src/favicon.svg" type="image/svg+xml">
 	<link rel="stylesheet" href="src/style.css">
 </head>
 <body>
